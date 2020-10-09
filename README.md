@@ -10,9 +10,8 @@ If you know basics of python🐍 and are willing to share something that is not 
 👨‍💻👩‍💻
 ```bash
 Fork🍴 -> Basics-of-Python🐍 -> programs📁
-```
-Add your code and ```bash
-Pull Request💗
+
+Add your code and Pull Request💗
 ```
 
 There you are...✨ You are now a contributor😎🥳🥳
